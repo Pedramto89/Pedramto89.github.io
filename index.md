@@ -84,7 +84,6 @@ Throughout my career, I've had the privilege of working with esteemed institutio
 ## 📂 Featured Projects
 
 ### **Machine Learning Classifier for Spatial Transcriptomics**
-![Machine Learning Classifier](images/image1.jpg)
 Developed a robust machine learning classifier in R and Python to analyze spatial transcriptomics data, accurately predicting cell identities based on gene expression profiles. Utilized algorithms like XGBoost and integrated Seurat for data analysis.
 
 ### **Single-Cell RNA-seq Data Integration**
