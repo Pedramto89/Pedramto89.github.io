@@ -11,11 +11,13 @@ title: Home
 
 Hello! I'm **Pedram Torabian**, a passionate researcher and data scientist with a strong background in bioinformatics, genomics, and machine learning. Currently pursuing a **Master of Medical Science** at the **University of Calgary**, I leverage my expertise in R, Python, and high-performance computing to analyze complex biological data. My work focuses on spatial transcriptomics, single-cell RNA sequencing (scRNA-seq), and deploying machine learning techniques to uncover insights in cancer research and other genetic disorders.
 
+
 ## 🌱 My Journey
+My scientific journey began as a wet lab researcher, where I earned my **Master of Human Genetics** with expertise in genetic engineering, population genetics, and biostatistics. This foundation in experimental biology proved invaluable as I advanced to the **Medical Science Program with Cancer Biology Specialization** at the **University of Calgary**, where I pioneered research in pancreatic ductal adenocarcinoma (PDAC) tumor microenvironment.
 
-From the early days of my academic career, I immersed myself in the fascinating realms of genetics and molecular biology. Earning my Master of Human Genetics from Iran University, I delved deep into genetic disorders, population genetics, and advanced topics in human genetics. This foundation paved the way for my pursuit of a Master of Medical Science at the University of Calgary, where I honed my skills in bioinformatics and applied genomics.
+At the **Arnie Charbonneau Cancer Institute**, I was among the first researchers to implement spatial transcriptomics (Nature Method of the Year, 2020) in PDAC studies using Visium 10X Genomics technology. This groundbreaking work required mastery of both experimental techniques and advanced computational methods, including single-cell RNA-seq analysis, bulk RNA-seq, protein-protein interaction mapping, and computational functional assessment through ssGSEA.
 
-Throughout my career, I've had the privilege of working with esteemed institutions like the Arnie Charbonneau Cancer Institute and the Alberta Machine Intelligence Institute (Amii). At the Cancer Institute, I spearheaded projects that integrated machine learning with spatial transcriptomics and single-cell RNA sequencing data, developing classifiers that predict cell identities with remarkable accuracy. My role at Amii involved creating educational content for AI applications in biology, bridging the gap between complex scientific concepts and accessible learning materials.
+My unique strength lies in bridging wet and dry lab expertise, allowing me to approach biological problems with comprehensive insight. I've successfully applied both supervised and unsupervised machine learning algorithms to analyze complex biological datasets. Through leading multiple experimental and computational projects, I've developed strong leadership skills that complement my technical expertise. This dual perspective - combining hands-on laboratory experience with computational proficiency - enables me to drive innovative solutions in modern biological research.
 
 ## 🛠️ Technical Skills
 
