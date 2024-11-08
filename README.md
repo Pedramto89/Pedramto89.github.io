@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Pages!
 
-![Header Image](https://your-image-url.com/header-image.jpg)
+![Header Image]([https://your-image-url.com/header-image.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbiology.mit.edu%2Ffaculty-and-research%2Fareas-of-research%2Fcomputational-biology%2F&psig=AOvVaw0ZmE5C-jBe7xAujeMplVFM&ust=1731135986914000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi6v6SWzIkDFQAAAAAdAAAAABAE))
 
 ## About Me
 
