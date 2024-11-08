@@ -1,0 +1,18 @@
+theme: minima
+
+# Site settings
+title: Pedram Torabian
+description: "Bioinformatics Researcher and Data Scientist"
+url: "https://pedramto89.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Author information
+author:
+  name: Pedram Torabian
+  email: pedram.torabian@ucalgary.ca
+  twitter: Pedramto89
+
+# Plugins (if any)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
