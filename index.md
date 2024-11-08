@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+![Descriptive Alt Text](images/image1.jpg)
 
 # Welcome to My GitHub Pages Site!
 
