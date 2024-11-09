@@ -3,11 +3,8 @@ layout: default
 title: Home
 description: "Pedram Torabian - Bioinformatics & Machine Learning Researcher"
 head:
-  - <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-
+  - <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
 ---
-
-
 
 # Table of Contents
 - [About Me](#about-me)
@@ -48,13 +45,12 @@ My unique strength lies in bridging wet and dry lab expertise, allowing me to ap
 - **Bioinformatics Tools:** Seurat, CellPhoneDB, CellChat, DESeq2, Monocle3, ssGSEA, GSVA
 - **High-Performance Computing:** Slurm for managing compute jobs on HPC clusters
 
-
 ## 📅 Professional Timeline
 
 ```mermaid
 gantt
     title Career Path
-    dateFormat  YYYY-MM
+    dateFormat YYYY-MM
     section Education
     Master of Medical Science     :2020-07, 2024-10
     Master of Human Genetics      :2013-09, 2016-02
@@ -62,8 +58,7 @@ gantt
     Amii                         :2024-04, 2024-06
     Cancer Institute             :2020-07, 2024-10
     Razavi Hospital              :2016-11, 2019-10
-
-
+```
 
 ## 🎓 Education
 
