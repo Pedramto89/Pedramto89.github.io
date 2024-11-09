@@ -2,6 +2,8 @@
 layout: default
 title: Home
 description: "Pedram Torabian - Bioinformatics & Machine Learning Researcher"
+head:
+  - <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
 ---
 
 # Table of Contents
