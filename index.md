@@ -3,9 +3,8 @@ layout: default
 title: Home
 description: "Pedram Torabian - Bioinformatics & Machine Learning Researcher"
 head:
-  - <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
-  - <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-  - <script>mermaid.initialize({ startOnLoad: true });</script>
+  - <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
 ---
 
 
