@@ -4,18 +4,102 @@ title: Home
 description: "Pedram Torabian - Bioinformatics & Machine Learning Researcher"
 head:
   - <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
----
+  - <style>
+      /* Timeline container */
+      .timeline {
+        position: relative;
+        max-width: 800px;
+        margin: 40px auto;
+        padding: 20px 0;
+      }
 
+      /* The vertical line */
+      .timeline::after {
+        content: '';
+        position: absolute;
+        width: 6px;
+        background-color: #ddd;
+        top: 0;
+        bottom: 0;
+        left: 50%;
+        margin-left: -3px;
+      }
+
+      /* Container for each timeline item */
+      .timeline-item {
+        padding: 20px 30px;
+        position: relative;
+        background-color: inherit;
+        width: 50%;
+      }
+
+      /* Positioning left and right */
+      .timeline-item.left {
+        left: 0;
+      }
+
+      .timeline-item.right {
+        left: 50%;
+      }
+
+      /* Content box */
+      .timeline-content {
+        padding: 20px;
+        background-color: #f9f9f9;
+        position: relative;
+        border-radius: 6px;
+      }
+
+      /* Circles on the timeline */
+      .timeline-item::after {
+        content: '';
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        right: -10px;
+        background-color: white;
+        border: 4px solid #FF9F55;
+        top: 30px;
+        border-radius: 50%;
+        z-index: 1;
+      }
+
+      .timeline-item.right::after {
+        left: -10px;
+      }
+
+      /* Responsive adjustments */
+      @media screen and (max-width: 600px) {
+        .timeline::after {
+          left: 31px;
+        }
+
+        .timeline-item {
+          width: 100%;
+          padding-left: 70px;
+          padding-right: 25px;
+        }
+
+        .timeline-item.left, .timeline-item.right {
+          left: 0;
+        }
+
+        .timeline-item::after {
+          left: 15px;
+        }
+      }
+    </style>
+---
 # Table of Contents
 - [About Me](#about-me)
-- [My Journey](#-my-journey)
-- [Technical Skills](#️-technical-skills)
-- [Education](#-education)
-- [Professional Experience](#-professional-experience)
-- [Awards & Achievements](#-awards--achievements)
-- [Featured Projects](#-featured-projects)
-- [GitHub Stats](#-github-stats)
-- [Get in Touch](#-get-in-touch)
+- [My Journey](#my-journey)
+- [Technical Skills](#technical-skills)
+- [Education](#education)
+- [Professional Experience](#professional-experience)
+- [Awards & Achievements](#awards-achievements)
+- [Featured Projects](#featured-projects)
+- [GitHub Stats](#github-stats)
+- [Get in Touch](#get-in-touch)
 
 ## 👋 Welcome to My GitHub Pages!
 
@@ -29,6 +113,52 @@ My scientific journey began as a wet lab researcher, where I earned my **Master 
 At the **Arnie Charbonneau Cancer Institute**, We were among the first researchers to implement spatial transcriptomics (Nature Method of the Year, 2020) in PDAC studies using Visium 10X Genomics technology. This groundbreaking work required mastery of both experimental techniques and advanced computational methods, including single-cell RNA-seq analysis, bulk RNA-seq, protein-protein interaction mapping, and computational functional assessment through ssGSEA.
 
 My unique strength lies in bridging wet and dry lab expertise, allowing me to approach biological problems with comprehensive insight. I have successfully applied both supervised and unsupervised machine learning algorithms to analyze complex biological datasets. Through leading multiple experimental and computational projects, I have developed strong leadership skills that complement my technical expertise. This dual perspective - combining hands-on laboratory experience with computational proficiency - enables me to drive innovative solutions in modern biological research.
+
+## 📅 Professional Timeline
+
+<div class="timeline">
+
+  <div class="timeline-item left">
+    <div class="timeline-content">
+      <h3>Master of Human Genetics</h3>
+      <h4>Iran University</h4>
+      <p>September 2013 – February 2016</p>
+    </div>
+  </div>
+
+  <div class="timeline-item right">
+    <div class="timeline-content">
+      <h3>Master of Medical Science</h3>
+      <h4>University of Calgary</h4>
+      <p>July 2020 – October 2024</p>
+    </div>
+  </div>
+
+  <div class="timeline-item left">
+    <div class="timeline-content">
+      <h3>Razavi Hospital</h3>
+      <h4>Research Assistant</h4>
+      <p>November 2016 – October 2019</p>
+    </div>
+  </div>
+
+  <div class="timeline-item right">
+    <div class="timeline-content">
+      <h3>Cancer Institute</h3>
+      <h4>Research Assistant</h4>
+      <p>July 2020 – Present</p>
+    </div>
+  </div>
+
+  <div class="timeline-item left">
+    <div class="timeline-content">
+      <h3>Amii</h3>
+      <h4>Content Development Support - Educational Product</h4>
+      <p>April 2024 – June 2024</p>
+    </div>
+  </div>
+
+</div>
 
 ## 💻 Skills Overview
 
@@ -44,21 +174,6 @@ My unique strength lies in bridging wet and dry lab expertise, allowing me to ap
 - **Statistical Analysis:** Kruskal-Wallis Test, Mann-Whitney U Test, ANOVA
 - **Bioinformatics Tools:** Seurat, CellPhoneDB, CellChat, DESeq2, Monocle3, ssGSEA, GSVA
 - **High-Performance Computing:** Slurm for managing compute jobs on HPC clusters
-
-## 📅 Professional Timeline
-
-```mermaid
-gantt
-    title Career Path
-    dateFormat YYYY-MM
-    section Education
-    Master of Medical Science     :2020-07, 2024-10
-    Master of Human Genetics      :2013-09, 2016-02
-    section Professional
-    Amii                         :2024-04, 2024-06
-    Cancer Institute             :2020-07, 2024-10
-    Razavi Hospital              :2016-11, 2019-10
-```
 
 ## 🎓 Education
 
