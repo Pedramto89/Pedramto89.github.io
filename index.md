@@ -3,8 +3,11 @@ layout: default
 title: Home
 description: "Pedram Torabian - Bioinformatics & Machine Learning Researcher"
 head:
-  - <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
-  - <style>
+  - |
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="shortcut icon" href="/assets/favicon.ico">
+    <style>
       /* Timeline container */
       .timeline {
         position: relative;
