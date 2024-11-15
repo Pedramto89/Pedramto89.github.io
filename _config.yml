@@ -1,18 +1,54 @@
-theme: minima
+# Your site settings
+name: Pedram Torabian
+author: Pedram Torabian
+baseurl: ""  # Leave empty for GitHub Pages
+description: "Bioinformatics & Machine Learning Researcher"
 
-# Site settings
-title: Pedram Torabian
-description: "Bioinformatics Researcher and Data Scientist"
-url: "https://pedramto89.github.io" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog
+# Social links
+github: https://github.com/Pedramto89
+linkedin: https://www.linkedin.com/in/pedram-torabian
+email: pedram.torabian@ucalgary.ca
 
-# Author information
-author:
-  name: Pedram Torabian
-  email: pedram.torabian@ucalgary.ca
-  twitter: Pedramto89
+# Theme settings from Herring Cove
+highlighter: rouge  # Updated from pygments as it's now standard
+markdown: kramdown  # Updated from redcarpet for better GitHub Pages compatibility
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
-# Plugins (if any)
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# Default layouts (from Herring Cove)
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Your existing favicon settings
+head:
+  - |
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+
+# Navigation structure
+links:
+  - title: About
+    url: "#about-me"
+  - title: Journey
+    url: "#my-journey"
+  - title: Skills
+    url: "#technical-skills"
+  - title: Education
+    url: "#education"
+  - title: Experience
+    url: "#professional-experience"
+  - title: Projects
+    url: "#featured-projects"
+  - title: Contact
+    url: "#get-in-touch"
