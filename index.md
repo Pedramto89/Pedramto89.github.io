@@ -75,6 +75,7 @@ head:
       }
     </style>
 ---
+
 # Table of Contents
 - [About Me](#about-me)
 - [My Journey](#my-journey)
@@ -93,6 +94,7 @@ head:
 Hello! I am **Pedram Torabian**, a passionate researcher and data scientist with a strong background in bioinformatics, genomics, machine learning, and health data science. I leverage my expertise in R, Python, bash, and high-performance computing to analyze complex biological and epidemiological data. My work spans spatial transcriptomics, single-cell RNA sequencing, and patient-level disease modeling using statistical and computational tools. Recently, I have also worked on HTA-focused literature reviews and epidemiological modeling for rare diseases in a CRO setting.
 
 ## 🌱 My Journey
+
 My scientific journey began as a wet lab researcher, where I earned my **Master of Human Genetics** with expertise in genetic engineering, population genetics, and biostatistics. This foundation in experimental biology proved invaluable as I advanced to the **Medical Science Program-Cancer Biology Specialization** at the **University of Calgary**, where I pioneered research in pancreatic ductal adenocarcinoma (PDAC) tumor microenvironment.
 
 At the **Arnie Charbonneau Cancer Institute**, we were among the first researchers to implement spatial transcriptomics (Nature Method of the Year, 2020) in PDAC studies using Visium 10X Genomics technology. This groundbreaking work required mastery of both experimental techniques and advanced computational methods, including single-cell RNA-seq analysis, bulk RNA-seq, protein-protein interaction mapping, and computational functional assessment through ssGSEA.
@@ -104,6 +106,7 @@ Most recently, I worked as a **Modelling Analyst in Genetic Epidemiology** at **
 ## 📅 Professional Timeline
 
 <div class="timeline">
+
   <div class="timeline-item left">
     <div class="timeline-content">
       <h3>Master of Human Genetics</h3>
@@ -151,6 +154,7 @@ Most recently, I worked as a **Modelling Analyst in Genetic Epidemiology** at **
       <p>January 2025 – July 2025</p>
     </div>
   </div>
+
 </div>
 
 ## 🛠️ Technical Skills
@@ -164,9 +168,70 @@ Most recently, I worked as a **Modelling Analyst in Genetic Epidemiology** at **
 - **SLR Tools & Standards:** PRISMA, Cochrane, JBI, HuGE, Covidence, Rayyan
 - **High-Performance Computing:** Slurm for managing compute jobs on HPC clusters
 
+## 🎓 Education
+
+- **Master of Medical Science**
+  - University of Calgary
+  - July 2020 – October 2024
+  - GPA: 3.7/4.0
+  - **Key Courses:** Intro Bioinformatics Resources, Advanced Bioinformatics, Tumor Microenvironment Dynamics, Intro Biostat Methods, Applied Genomics, Tumor Immunology and Therapy
+
+- **Master of Human Genetics**
+  - Iran University
+  - September 2013 – February 2016
+  - GPA: 3.5/4.0
+  - **Key Courses:** Genetics Engineering, Advanced Topics in Human Genetics, Population Genetics
+
 ## 🏆 Awards & Achievements
 
 - Received four-year graduate research stipend in Medical Science (Cancer Biology), University of Calgary. July 2020 – October 2024  
 - Awarded the Griffith University Postgraduate Research Scholarship (GUPRS), with an award value of $28,092 AUD. December 2019  
 - Achieved top 2% ranking among participants in the national master's level entrance exam. September 2013  
 - Ranked in the top 1% of examinees nationwide in the Iran national entrance exam. September 2008
+
+## 📂 Featured Projects
+
+<details>
+<summary><strong>Machine Learning Classifier for Spatial Transcriptomics</strong></summary>
+
+- Technologies used: R, Python, XGBoost, Seurat
+- Key achievements:
+  - Developed a robust machine learning classifier in R and Python
+  - Accurately predicted cell identities based on gene expression profiles
+  - Integrated Seurat for comprehensive data analysis
+</details>
+
+<details>
+<summary><strong>Single-Cell RNA-seq Data Integration</strong></summary>
+
+- Technologies used: R, Seurat
+- Key achievements:
+  - Led analysis of 30 GB of single-cell RNA-seq data from ten samples
+  - Identified cell type-specific marker genes
+  - Created comprehensive marker gene list for diverse cellular populations
+</details>
+
+<details>
+<summary><strong>Computational Deconvolution of Bulk RNA-seq Data</strong></summary>
+
+- Technologies used: R, Deconvolution algorithms
+- Key achievements:
+  - Applied four computational deconvolution methods to TCGA data
+  - Uncovered gene expression variations related to stromal levels
+  - Provided insights into cancer progression mechanisms
+</details>
+
+## 📈 GitHub Stats
+
+![Pedram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedramto89&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedramto89&layout=compact&theme=radical)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Pedramto89.Pedramto89)
+
+## 📫 Get in Touch
+
+I'm always open to discussing innovative research, collaborations, or new opportunities. Feel free to reach out via:
+
+- [LinkedIn](https://www.linkedin.com/in/pedram-torabian)
+- [Email](mailto:pedram.torabian@ucalgary.ca)
+- [GitHub](https://github.com/Pedramto89)
