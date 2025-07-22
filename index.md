@@ -117,6 +117,8 @@ At the **Arnie Charbonneau Cancer Institute**, We were among the first researche
 
 My unique strength lies in bridging wet and dry lab expertise, allowing me to approach biological problems with comprehensive insight. I have successfully applied both supervised and unsupervised machine learning algorithms to analyze complex biological datasets. Through leading multiple experimental and computational projects, I have developed strong leadership skills that complement my technical expertise. This dual perspective - combining hands-on laboratory experience with computational proficiency - enables me to drive innovative solutions in modern biological research.
 
+Most recently, I worked as a **Modelling Analyst in Genetic Epidemiology** at **ISMS (Integrated Strategic Market Access Services)** as part of a BioNet-funded internship. In this role, I contributed to real-world projects on rare and ultra-rare diseases, performing targeted literature reviews, patient pool estimation, epidemiological modeling, and working with international HTA documentation to support access strategies for pharmaceutical clients.
+
 ## 📅 Professional Timeline
 
 <div class="timeline">
@@ -158,6 +160,14 @@ My unique strength lies in bridging wet and dry lab expertise, allowing me to ap
       <h3>Amii</h3>
       <h4>Content Development Support - Educational Product</h4>
       <p>April 2024 – June 2024</p>
+    </div>
+  </div>
+
+  <div class="timeline-item right">
+    <div class="timeline-content">
+      <h3>ISMS (Integrated Strategic Market Access Services)</h3>
+      <h4>Modelling Analyst – Genetic Epidemiology (BioNet Internship)</h4>
+      <p>January 2025 – July 2025</p>
     </div>
   </div>
 
