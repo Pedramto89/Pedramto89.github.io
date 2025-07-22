@@ -106,40 +106,15 @@ Most recently, I worked as a **Modelling Analyst in Genetic Epidemiology** at **
 ## 📅 Professional Timeline
 
 <div class="timeline">
-
   <div class="timeline-item left">
     <div class="timeline-content">
-      <h3>Master of Human Genetics</h3>
-      <h4>Iran University</h4>
-      <p>September 2013 – February 2016</p>
+      <h3>ISMS (Integrated Strategic Market Access Services)</h3>
+      <h4>Modelling Analyst – Genetic Epidemiology (BioNet Internship)</h4>
+      <p>January 2025 – July 2025</p>
     </div>
   </div>
 
   <div class="timeline-item right">
-    <div class="timeline-content">
-      <h3>Master of Medical Science</h3>
-      <h4>University of Calgary</h4>
-      <p>July 2020 – October 2024</p>
-    </div>
-  </div>
-
-  <div class="timeline-item left">
-    <div class="timeline-content">
-      <h3>Razavi Hospital</h3>
-      <h4>Research Assistant</h4>
-      <p>November 2016 – October 2019</p>
-    </div>
-  </div>
-
-  <div class="timeline-item right">
-    <div class="timeline-content">
-      <h3>Arnie Charbonneau Cancer Institute</h3>
-      <h4>Research Assistant</h4>
-      <p>July 2020 – January 2025</p>
-    </div>
-  </div>
-
-  <div class="timeline-item left">
     <div class="timeline-content">
       <h3>Amii</h3>
       <h4>Content Development Support - Educational Product</h4>
@@ -147,13 +122,39 @@ Most recently, I worked as a **Modelling Analyst in Genetic Epidemiology** at **
     </div>
   </div>
 
-  <div class="timeline-item right">
+  <div class="timeline-item left">
     <div class="timeline-content">
-      <h3>ISMS (Integrated Strategic Market Access Services)</h3>
-      <h4>Modelling Analyst – Genetic Epidemiology (BioNet Internship)</h4>
-      <p>January 2025 – July 2025</p>
+      <h3>Arnie Charbonneau Cancer Institute</h3>
+      <h4>Research Assistant</h4>
+      <p>July 2020 – January 2025</p>
     </div>
   </div>
+
+  <div class="timeline-item right">
+    <div class="timeline-content">
+      <h3>Razavi Hospital</h3>
+      <h4>Research Assistant</h4>
+      <p>November 2016 – October 2019</p>
+    </div>
+  </div>
+
+  <div class="timeline-item left">
+    <div class="timeline-content">
+      <h3>Master of Medical Science</h3>
+      <h4>University of Calgary</h4>
+      <p>July 2020 – October 2024</p>
+    </div>
+  </div>
+
+  <div class="timeline-item right">
+    <div class="timeline-content">
+      <h3>Master of Human Genetics</h3>
+      <h4>Iran University</h4>
+      <p>September 2013 – February 2016</p>
+    </div>
+  </div>
+</div>
+
 
 </div>
 
